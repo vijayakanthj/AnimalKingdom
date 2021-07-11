@@ -12,3 +12,7 @@
 - sing 
 - talk
  
+##how to run the application  
+Run `./run.sh` command to compile, run tests and run the application
+ 
+### ![flow diagram](flowDigram.png)
